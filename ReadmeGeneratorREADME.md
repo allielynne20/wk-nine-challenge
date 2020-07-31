@@ -26,7 +26,7 @@
 
   ## **Usage**
   This app is meant to create a readme.md file from the information the user inputs.
-  - Here is a video that shows you how to create a reademe file with this application: [readme video]()
+  - Here is a video that shows you how to create a reademe file with this application: [readme video](https://drive.google.com/file/d/12ojqxP2nI_m-lkXCzbLBd_hT7Vp793Pf/view) 
 
   ## **Contributions**
   There are many ways in which you can contribute to this project, for example:
