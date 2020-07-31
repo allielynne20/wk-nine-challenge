@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   - My GitHub username: ${getContact(data.githubusername)}
 
 
-  **Thank you!** 
+  **Thank you!** :upside_down_face:
 
 
   *Licensed under the ${data.license}.*
