@@ -5,6 +5,9 @@
   ## **Description**
   This app will allow the user to run it from the command line where they will be prompted to answer questions. The app will then take the information from those answers and generate a readme.md file for the user.
 
+  ## **Example Readme this app created!**
+  ![Image of a readme file this app created](./readmeexample.png)
+
   ## **Table of Contents**
 
   * [Installation](#Installation)
@@ -23,7 +26,6 @@
 
   ## **Usage**
   This app is meant to create a readme.md file from the information the user inputs.
-  - Here is an example of the README file it will create: [readme file]()
   - Here is a video that shows you how to create a reademe file with this application: [readme video]()
 
   ## **Contributions**
