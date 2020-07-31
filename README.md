@@ -1,7 +1,7 @@
 
-  # **Run-Buddy**
+  # **  Run-Buddy**
 
-  ![GitHub license](https://img.shields.io/badge/license-Apache-License 2.0-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## **Description**
   This app connects runners that live in the same areas.
@@ -23,7 +23,7 @@
   To install this app you simply open it in the browser.
 
   ## **Usage**
-     This project is meant to help runners connect that live in the same area. 
+  This project is meant to help runners connect that live in the same area.
 
   ## **Contributions**
   There are many ways in which you can contribute to this project, for example:
@@ -43,5 +43,5 @@
   **Thank you!** :upside_down_face:
 
 
-  *Licensed under the Apache-License 2.0.*
+  *Licensed under the MIT.*
   
