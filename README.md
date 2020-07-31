@@ -4,7 +4,7 @@
   ![GitHub license](https://img.shields.io/badge/license-Apache License 2.0-blue.svg)
 
   ## **Description**
-  This app helps connect runners.
+  This app connects runners that live in the same areas. 
 
   ## **Table of Contents**
 
@@ -20,10 +20,10 @@
 
 
   ## **Installation**
-  The install happens when you open the app in the browser.
+  To install this app you simply open it in the browser.
 
   ## **Usage**
-  It is used to connect runners in the same locations.
+  This project is meant to help runners connect that live in the same area.
 
   ## **Contributions**
   There are many ways in which you can contribute to this project, for example:
@@ -32,7 +32,7 @@
   - Review documentation for any other errors
 
   ## **Testing**
-  You can test this by opening the app and searching your city. 
+  You can test this app by searching your city and seeing a list of local runners in that area.
 
   ## **Questions** 
   If you have any questions in regard to this project please reach out by contacting me through: 
