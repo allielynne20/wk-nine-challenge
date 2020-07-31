@@ -1,10 +1,10 @@
 
   # **Run-Buddy**
 
-  ![GitHub license](https://img.shields.io/badge/license-Apache License 2.0-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-Apache-License 2.0-blue.svg)
 
   ## **Description**
-  This app connects runners that live in the same areas. 
+  This app connects runners that live in the same areas.
 
   ## **Table of Contents**
 
@@ -23,7 +23,7 @@
   To install this app you simply open it in the browser.
 
   ## **Usage**
-  This project is meant to help runners connect that live in the same area.
+     This project is meant to help runners connect that live in the same area. 
 
   ## **Contributions**
   There are many ways in which you can contribute to this project, for example:
@@ -32,7 +32,7 @@
   - Review documentation for any other errors
 
   ## **Testing**
-  You can test this app by searching your city and seeing a list of local runners in that area.
+  You can test this app by searching your city and seeing a list of local running routes in your area.
 
   ## **Questions** 
   If you have any questions in regard to this project please reach out by contacting me through: 
@@ -43,5 +43,5 @@
   **Thank you!** :upside_down_face:
 
 
-  *Licensed under the Apache License 2.0.*
+  *Licensed under the Apache-License 2.0.*
   

@@ -65,7 +65,7 @@ const promptInfo = () => {
             type: 'checkbox',
             name: 'license',
             message: 'What license would you like your project covered under?',
-            choices: ['MIT', 'ISC', 'Apache License 2.0', 'BSD']
+            choices: ['MIT', 'ISC', 'Apache-License 2.0', 'BSD']
         },
         //Contribution section goes here.
         {
