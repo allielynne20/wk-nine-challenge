@@ -1,4 +1,3 @@
-
   # **Readme-Generator**
 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -24,6 +23,8 @@
 
   ## **Usage**
   This app is meant to create a readme.md file from the information the user inputs.
+  - Here is an example of the README file it will create: [readme file]()
+  - Here is a video that shows you how to create a reademe file with this application: [readme video]()
 
   ## **Contributions**
   There are many ways in which you can contribute to this project, for example:
