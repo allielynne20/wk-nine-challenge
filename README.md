@@ -1,10 +1,10 @@
 
-  # **Readme-Generator**
+  # **Run-Buddy**
 
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-Apache License 2.0-blue.svg)
 
   ## **Description**
-  This app will allow the user to run it from the command line where they will be prompted to answer questions. The app will then take the information from those answers and generate a readme.md file for the user.
+  This app helps connect runners.
 
   ## **Table of Contents**
 
@@ -20,10 +20,10 @@
 
 
   ## **Installation**
-  To install this project you will need to download the github link, open your terminal in the proper directory, run npm install inquirer, run node index, and enter answers to the questions.
+  The install happens when you open the app in the browser.
 
   ## **Usage**
-  This app is meant to create a readme.md file from the information the user inputs.
+  It is used to connect runners in the same locations.
 
   ## **Contributions**
   There are many ways in which you can contribute to this project, for example:
@@ -32,7 +32,7 @@
   - Review documentation for any other errors
 
   ## **Testing**
-  You can test this project by running node index in your command line after you have downloaded the github repo.
+  You can test this by opening the app and searching your city. 
 
   ## **Questions** 
   If you have any questions in regard to this project please reach out by contacting me through: 
@@ -43,5 +43,5 @@
   **Thank you!** :upside_down_face:
 
 
-  *Licensed under the MIT.*
+  *Licensed under the Apache License 2.0.*
   
