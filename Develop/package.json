@@ -1,0 +1,22 @@
+{
+  "name": "ReadmeGenerator",
+  "version": "1.0.0",
+  "description": "This app will generate a README.md file based off of the users input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allie Watkins",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wk-nine-challenge"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ]
+}
